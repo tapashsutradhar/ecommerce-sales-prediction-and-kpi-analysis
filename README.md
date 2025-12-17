@@ -187,4 +187,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-⭐ *If you find this project useful, please consider giving it a star!*
+⭐ *If you find this project useful, or need to update please let me know!*
